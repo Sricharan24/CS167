@@ -2,18 +2,18 @@
 
 ## Student information
 
-* Full name:
-* E-mail:
-* UCR NetID:
-* Student ID:
+* Full name: Sricharan Kathika
+* E-mail: skath004@ucr.edu
+* UCR NetID: skath004
+* Student ID: 862258522
 
 ## Answers
 
 - ***(Q1) What is the name of the directory that `mvn archectype:generate` command creates?***
-
+Skath004_LAB1
 
 - ***(Q2) What do you see at the console output when you run the `java` command?***
-
+Hello World!
 
 - ***(Q3) Which of the following is the right way to call the `IsEven` function?***
 
