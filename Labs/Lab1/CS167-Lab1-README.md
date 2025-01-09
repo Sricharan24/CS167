@@ -19,7 +19,7 @@ Hello World!
 
     - IsEven(5)
     - IsEven.apply(5)
-    - new IsEven().apply(5)
+    - new IsEven().apply(5) (This one)
 
 - ***(Q4) Did the program compile after you added the `base=0` line?***
 
