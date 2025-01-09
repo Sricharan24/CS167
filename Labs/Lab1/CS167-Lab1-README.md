@@ -22,7 +22,12 @@ Hello World!
     - new IsEven().apply(5) (This one)
 
 - ***(Q4) Did the program compile after you added the `base=0` line?***
+  no
 
 
 - ***(Q5) If your answer to (Q4) is No, what is the error message you get?***
+   error: local variables referenced from a lambda expression must be final or effectively final
+            Function<Integer, Boolean> divisibleByBase = x -> x % base == 0;
+                                                                  ^
+
 
